@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwalsinha30">LinkedIn</a> •
   <a href="mailto:sinhaujjwal175@example.com">Email</a> •
-  <a href="https://github.com/UjjwalSinha30">GitHub</a>
+  <a href="https://github.com/UjjwalSinha30">GitHub</a> •
   <a href="https://leetcode.com/u/stoicguy">LeetCode</a>
 </p>
 
