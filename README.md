@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer • React • Python (FastAPI) • Node.js • Express • MongoDB/SQL • Docker • Git • Exploring AI & RAG
+  Full-Stack Developer • React • Python (FastAPI) • Node.js • Express • MongoDB/SQL • Docker • Git • AI & RAG
 </p>
 
 ## 🚀 About Me
