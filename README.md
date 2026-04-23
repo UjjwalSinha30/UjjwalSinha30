@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,fastapi,docker,git,postman,vscode,linux" />
 </p>
 
-## 📊 Quick Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjwalSinha30&show_icons=true&theme=radical&hide_border=true" width="48%" />
